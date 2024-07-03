@@ -20,3 +20,11 @@
   padding: 0;
   margin: 0;
 }
+
+.online{
+color: rgb(8, 177, 44);
+}
+
+.offline{
+color: rgb(212, 27, 27);
+}
