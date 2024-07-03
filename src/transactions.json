@@ -1,0 +1,26 @@
+[
+  {
+    "id":"fvd34n314-vwef-vs-df23",
+    "type": "invoice",
+    "amount": "964.82",
+    "currency": "LRD"
+  },
+  {
+    "id":"dfd-32kdd-vwefd3-df23",
+    "type": "deposit",
+    "amount": "103.10",
+    "currency": "WST"
+  },
+  {
+    "id":"5435safa5w14-vfdwf-vs53vge",
+    "type": "withdrawal",
+    "amount": "322.32",
+    "currency": "UGX"
+  },
+  {
+    "id":"lkm233-1fee-vweff-dkj23",
+    "type": "payment",
+    "amount": "527.80",
+    "currency": "ALL"
+  }
+]
