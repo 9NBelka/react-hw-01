@@ -1,0 +1,50 @@
+[
+  {
+    "id": "1",
+    "userName": "Nikita Belska",
+    "tag": "s43gyhuj5",
+    "location": "Ukraine, Kharkiv",
+    "avatar": "http://cdn-icons-png.flaticon.com/512/2922/2922506.png",
+    "stats": {
+    "followers": 1403,
+    "views": 200,
+    "likes": 1200
+  }
+  },
+  {
+    "id": "2",
+    "userName": "Artem Seredenko",
+    "tag": "6nj4b325n",
+    "location": "USA, NewYork",
+    "avatar": "http://cdn-icons-png.flaticon.com/512/2922/2922506.png",
+    "stats": {
+    "followers": 4003,
+    "views": 2330,
+    "likes": 2223
+  }
+  },
+  {
+    "id": "3",
+    "userName": "Misha Kyshtim",
+    "tag": "dg7a60sf2",
+    "location": "Japan, Tokyo",
+    "avatar": "http://cdn-icons-png.flaticon.com/512/2922/2922506.png",
+    "stats": {
+    "followers": 14003,
+    "views": 7690,
+    "likes": 5208
+  }
+  },
+  {
+    "id": "4",
+    "userName": "Kirill Mirovich",
+    "tag": "gf5f6hh6d",
+    "location": "Germany, Berlin",
+    "avatar": "http://cdn-icons-png.flaticon.com/512/2922/2922506.png",
+    "stats": {
+    "followers": 13703,
+    "views": 9700,
+    "likes": 6254
+  }
+  }
+]

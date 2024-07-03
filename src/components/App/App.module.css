@@ -1,0 +1,12 @@
+.app {
+  display: flex;
+  flex-direction: row;
+  list-style: none;
+  flex-wrap: wrap;
+  gap: 30px;
+}
+
+.friends{
+    display: flex;
+  flex-direction: row;
+}
